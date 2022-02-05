@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udayTX
 - 👀 I’m interested in data science and product management
-- 🌱 I’m currently learning advanced python 3.6
+- 🌱 I’m currently learning advanced python 3.6 for data analytics
 - 💞️ I’m looking to collaborate on real time data projects
 - 📫 How to reach me ping me!!
 
